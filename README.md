@@ -1,6 +1,8 @@
 ### Hi there 👋
-https://github-readme-streak-stats.herokuapp.com/?user=alimisumanth&%22
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=alimisumanth&%22>
 
+  <p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c108cd3876f575aee271a67681d8d1658eeaa29cce8b5b47ce2470f51d51c034/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6331376861776b6526"><img align="center" src="https://camo.githubusercontent.com/c108cd3876f575aee271a67681d8d1658eeaa29cce8b5b47ce2470f51d51c034/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6331376861776b6526" alt="c17hawke" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=c17hawke&amp;" style="max-width: 100%;"></a></p>
+  
 <!--
 **alimisumanth/alimisumanth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
